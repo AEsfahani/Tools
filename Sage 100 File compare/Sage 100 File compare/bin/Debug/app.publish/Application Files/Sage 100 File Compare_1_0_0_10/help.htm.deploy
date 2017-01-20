@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Sage 100 File Compare</Title>
+</HEAD>
+<BODY>
+<p align="center"><strong>Sage 100 File Compare</strong></p>
+&nbsp;
+
+Sage 100 file compare currently is capable of searching for existence of files that are in MAS90 folder. Please send an email to <a href="mailto:ali.esfahani@sage.com">ali.esfahani@sage.com</a> with all the enhancement requests and bug reports.
+
+There are two ways to launch this program.
+<ul>
+	<li>Install it using the installer</li>
+</ul>
+<ul>
+	<li>Launch the application using the .exe file      without installation and that will work if .net 3.5 sp1 is installed.</li>
+</ul>
+
+There are two ways to use this program.
+
+First approach is to compare company data files, which are the company data files under MAS90\MAS_XXX folder that can be done on the first tab.
+
+Steps:
+<ol start="1">
+	<li>Enter a valid path to the MAS90 folder you would like to compare it’s data</li>
+	<li>Enter a valid 3 digit company code.</li>
+	<li>Select the version of your MAS90</li>
+	<li>Select the modules you like to compare</li>
+	<li>Press the Compare button.</li>
+</ol>
+Second approach is to compare the program files that can be done on the third tab
+
+Steps:
+<ol start="1">
+	<li>Enter a valid path to the MAS90 folder you would like to compare it’s program      files.</li>
+	<li>Select the version of your MAS90</li>
+	<li>Select the programs you like to compare.</li>
+	<li>Press the Compare button.</li>
+</ol>
+
+
+</BODY>
+</HTML>

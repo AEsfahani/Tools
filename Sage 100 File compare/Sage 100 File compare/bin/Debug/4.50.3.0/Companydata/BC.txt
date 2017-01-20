@@ -1,0 +1,13 @@
+﻿BC_Detail.M4T
+BC_DetailHistory.M4T
+BC_DetailRejection.M4T
+BC_Distribution.M4T
+BC_DistributionHistory.M4T
+BC_DistributionRejection.M4T
+BC_Header.M4T
+BC_HeaderHistory.M4T
+BC_HeaderRejection.M4T
+BC_Keys.M4T
+BC_Options.M4T
+BC_OptionsListingWrk.M4T
+BC_Session.M4T

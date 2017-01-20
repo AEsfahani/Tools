@@ -1,0 +1,19 @@
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Interop.Scripting.dll
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage 100 File compare.vbproj.ResolveComReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage_100_File_compare.Form1.resources
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage_100_File_compare.Resources.resources
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage 100 File compare.vbproj.GenerateResource.Cache
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Release\Sage 100 File Compare.exe.manifest
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Release\Sage 100 File Compare.application
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Release\Sage 100 File Compare.exe
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Release\Sage 100 File Compare.pdb
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Release\Sage 100 File Compare.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Release\Interop.Scripting.dll
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage_100_File_compare.AboutBox1.resources
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage 100 File Compare.TrustInfo.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage 100 File Compare.exe.manifest
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage 100 File Compare.application
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage 100 File Compare.exe
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage 100 File Compare.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Release\Sage 100 File Compare.pdb

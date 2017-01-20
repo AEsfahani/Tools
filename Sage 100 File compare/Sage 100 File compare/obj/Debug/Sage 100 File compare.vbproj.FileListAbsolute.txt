@@ -1,0 +1,39 @@
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\bin\Debug\Sage 100 File compare.exe
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\bin\Debug\Sage 100 File compare.pdb
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\bin\Debug\Sage 100 File compare.xml
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\obj\Debug\Sage_100_File_compare.Form1.resources
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\obj\Debug\Sage_100_File_compare.Resources.resources
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\obj\Debug\Sage 100 File compare.vbproj.GenerateResource.Cache
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\obj\Debug\Sage 100 File compare.exe
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\obj\Debug\Sage 100 File compare.xml
+C:\Documents and Settings\AEsfahani\Local Settings\Application Data\Temporary Projects\Sage 100 File compare\obj\Debug\Sage 100 File compare.pdb
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File compare.exe
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File compare.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File compare.pdb
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage_100_File_compare.Form1.resources
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage_100_File_compare.Resources.resources
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File compare.vbproj.GenerateResource.Cache
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Debug\Sage 100 File compare.exe
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Debug\Sage 100 File compare.pdb
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Debug\Sage 100 File compare.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Interop.Scripting.dll
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File compare.vbproj.ResolveComReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Debug\Interop.Scripting.dll
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage_100_File_compare.AboutBox1.resources
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Debug\Sage 100 File Compare.exe.manifest
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\bin\Debug\Sage 100 File Compare.application
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.TrustInfo.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.exe.manifest
+C:\Documents and Settings\AEsfahani\Desktop\vb\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.application
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\Sage 100 File compare\Sage 100 File compare\obj\Debug\Interop.Scripting.dll
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File compare.vbproj.ResolveComReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.exe
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.xml
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.pdb
+C:\Users\AEsfahani\Desktop\My Programming Projects\Copy of Sage 100 File compare\Sage 100 File compare\obj\Debug\Interop.Scripting.dll
+C:\Users\AEsfahani\Desktop\My Programming Projects\Copy of Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File compare.vbproj.ResolveComReference.cache
+C:\Users\AEsfahani\Desktop\My Programming Projects\Copy of Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.exe
+C:\Users\AEsfahani\Desktop\My Programming Projects\Copy of Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.xml
+C:\Users\AEsfahani\Desktop\My Programming Projects\Copy of Sage 100 File compare\Sage 100 File compare\obj\Debug\Sage 100 File Compare.pdb

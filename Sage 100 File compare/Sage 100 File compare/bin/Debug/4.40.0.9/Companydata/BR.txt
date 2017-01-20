@@ -1,0 +1,17 @@
+﻿BR_AutoCheckDetail.M4T
+BR_AutoCheckHeader.M4T
+BR_AutoCheckSettings.M4T
+BR_AutoCheckWrk.M4T
+BR_BankRecapWrk.M4T
+BR_DailyPostingWork.M4T
+BR_EstimatedCashFlowAnlysWrk.M4T
+BR_Options.M4T
+BR_PositivePayDetail.M4T
+BR_PositivePayExportWrk.M4T
+BR_PositivePayHeader.M4T
+BR_PositivePaySelection.M4T
+BR_PositivePaySettings.M4T
+BR_ReconciliationRegisterWrk.M4T
+BR_Transaction.M4T
+BR_TransactionRegisterWrk.M4T
+BR_TransactionRestart.M4T

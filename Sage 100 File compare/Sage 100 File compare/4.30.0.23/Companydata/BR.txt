@@ -1,0 +1,6 @@
+﻿br1XXX.soa
+BR_BankRecapWrk.M4T
+BR_EstimatedCashFlowAnlysWrk.M4T
+BR_Options.M4T
+BR_ReconciliationRegisterWrk.M4T
+BR_Transaction.M4T

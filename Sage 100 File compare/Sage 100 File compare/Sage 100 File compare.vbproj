@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FA22B791-8130-45FA-AD0E-ED9FD18BDB9E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sage_100_File_compare.My.MyApplication</StartupObject>
+    <RootNamespace>Sage_100_File_compare</RootNamespace>
+    <AssemblyName>Sage 100 File Compare</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <ApplicationIcon>SAGE.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>812C9A643E2D5185D4FBA5679D7C841042730769</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Sage 100 File compare_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>true</SignManifests>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>Sage100filekey.pfx</AssemblyOriginatorKeyFile>
+    <PublishUrl>\\mainnt\common\Public Common\Sage100SupportApps\Sage100FileCompare\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Sage 100 File Compare</ProductName>
+    <PublisherName>Sage</PublisherName>
+    <CreateWebPageOnPublish>false</CreateWebPageOnPublish>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>11</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sage 100 File Compare.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sage 100 File Compare.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Sage 100 File compare_TemporaryKey.pfx" />
+    <None Include="Sage100filekey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Scripting">
+      <Guid>{420B2830-E718-11CF-893D-00A0C9054228}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="4.30.0.23\Companydata\AP.txt" />
+    <Content Include="4.30.0.23\Companydata\AR.txt" />
+    <Content Include="4.30.0.23\Companydata\BC.txt" />
+    <Content Include="4.30.0.23\Companydata\BM.txt" />
+    <Content Include="4.30.0.23\Companydata\BR.txt" />
+    <Content Include="4.30.0.23\Companydata\CI.txt" />
+    <Content Include="4.30.0.23\Companydata\ES.txt" />
+    <Content Include="4.30.0.23\Companydata\FL.txt" />
+    <Content Include="4.30.0.23\Companydata\GL.txt" />
+    <Content Include="4.30.0.23\Companydata\IM.txt" />
+    <Content Include="4.30.0.23\Companydata\IT.txt" />
+    <Content Include="4.30.0.23\Companydata\JC.txt" />
+    <Content Include="4.30.0.23\Companydata\MP.txt" />
+    <Content Include="4.30.0.23\Companydata\MR.txt" />
+    <Content Include="4.30.0.23\Companydata\PO.txt" />
+    <Content Include="4.30.0.23\Companydata\PR.txt" />
+    <Content Include="4.30.0.23\Companydata\RA.txt" />
+    <Content Include="4.30.0.23\Companydata\SO.txt" />
+    <Content Include="4.30.0.23\Companydata\TC.txt" />
+    <Content Include="4.30.0.23\Companydata\WO.txt" />
+    <Content Include="4.30.0.23\Programs\AP.txt" />
+    <Content Include="4.30.0.23\Programs\AR.txt" />
+    <Content Include="4.30.0.23\Programs\BC.txt" />
+    <Content Include="4.30.0.23\Programs\BIExplorer.txt" />
+    <Content Include="4.30.0.23\Programs\BM.txt" />
+    <Content Include="4.30.0.23\Programs\BR.txt" />
+    <Content Include="4.30.0.23\Programs\CI.txt" />
+    <Content Include="4.30.0.23\Programs\CM.txt" />
+    <Content Include="4.30.0.23\Programs\DDICTS.txt" />
+    <Content Include="4.30.0.23\Programs\ES.txt" />
+    <Content Include="4.30.0.23\Programs\files.txt" />
+    <Content Include="4.30.0.23\Programs\FL.txt" />
+    <Content Include="4.30.0.23\Programs\GL.txt" />
+    <Content Include="4.30.0.23\Programs\Home.txt" />
+    <Content Include="4.30.0.23\Programs\IM.txt" />
+    <Content Include="4.30.0.23\Programs\Install.txt" />
+    <Content Include="4.30.0.23\Programs\IT.txt" />
+    <Content Include="4.30.0.23\Programs\JC.txt" />
+    <Content Include="4.30.0.23\Programs\Launcher.txt" />
+    <Content Include="4.30.0.23\Programs\Links.txt" />
+    <Content Include="4.30.0.23\Programs\MAS_SYSTEM.txt" />
+    <Content Include="4.30.0.23\Programs\MAS_USERS.txt" />
+    <Content Include="4.30.0.23\Programs\MP.txt" />
+    <Content Include="4.30.0.23\Programs\MR.txt" />
+    <Content Include="4.30.0.23\Programs\PL.txt" />
+    <Content Include="4.30.0.23\Programs\PO.txt" />
+    <Content Include="4.30.0.23\Programs\PR.txt" />
+    <Content Include="4.30.0.23\Programs\PT.txt" />
+    <Content Include="4.30.0.23\Programs\RA.txt" />
+    <Content Include="4.30.0.23\Programs\Reports.txt" />
+    <Content Include="4.30.0.23\Programs\SO.txt" />
+    <Content Include="4.30.0.23\Programs\SOA.txt" />
+    <Content Include="4.30.0.23\Programs\SY.txt" />
+    <Content Include="4.30.0.23\Programs\TC.txt" />
+    <Content Include="4.30.0.23\Programs\Uninstall Information.txt" />
+    <Content Include="4.30.0.23\Programs\Uninstall.txt" />
+    <Content Include="4.30.0.23\Programs\VI.txt" />
+    <Content Include="4.30.0.23\Programs\Wksetup.txt" />
+    <Content Include="4.30.0.23\Programs\WO.txt" />
+    <Content Include="4.40.0.9\Companydata\AP.txt" />
+    <Content Include="4.40.0.9\Companydata\AR.txt" />
+    <Content Include="4.40.0.9\Companydata\BC.txt" />
+    <Content Include="4.40.0.9\Companydata\BM.txt" />
+    <Content Include="4.40.0.9\Companydata\BR.txt" />
+    <Content Include="4.40.0.9\Companydata\CI.txt" />
+    <Content Include="4.40.0.9\Companydata\ES.txt" />
+    <Content Include="4.40.0.9\Companydata\FL.txt" />
+    <Content Include="4.40.0.9\Companydata\GL.txt" />
+    <Content Include="4.40.0.9\Companydata\IM.txt" />
+    <Content Include="4.40.0.9\Companydata\IT.txt" />
+    <Content Include="4.40.0.9\Companydata\JC.txt" />
+    <Content Include="4.40.0.9\Companydata\MP.txt" />
+    <Content Include="4.40.0.9\Companydata\MR.txt" />
+    <Content Include="4.40.0.9\Companydata\PO.txt" />
+    <Content Include="4.40.0.9\Companydata\PR.txt" />
+    <Content Include="4.40.0.9\Companydata\RA.txt" />
+    <Content Include="4.40.0.9\Companydata\SO.txt" />
+    <Content Include="4.40.0.9\Companydata\TC.txt" />
+    <Content Include="4.40.0.9\Companydata\WO.txt" />
+    <Content Include="4.40.0.9\Programs\AP.txt" />
+    <Content Include="4.40.0.9\Programs\AR.txt" />
+    <Content Include="4.40.0.9\Programs\BC.txt" />
+    <Content Include="4.40.0.9\Programs\BIExplorer.txt" />
+    <Content Include="4.40.0.9\Programs\BM.txt" />
+    <Content Include="4.40.0.9\Programs\BR.txt" />
+    <Content Include="4.40.0.9\Programs\CI.txt" />
+    <Content Include="4.40.0.9\Programs\CM.txt" />
+    <Content Include="4.40.0.9\Programs\DDICTS.txt" />
+    <Content Include="4.40.0.9\Programs\ES.txt" />
+    <Content Include="4.40.0.9\Programs\files.txt" />
+    <Content Include="4.40.0.9\Programs\FL.txt" />
+    <Content Include="4.40.0.9\Programs\GL.txt" />
+    <Content Include="4.40.0.9\Programs\Home.txt" />
+    <Content Include="4.40.0.9\Programs\IM.txt" />
+    <Content Include="4.40.0.9\Programs\Install.txt" />
+    <Content Include="4.40.0.9\Programs\IT.txt" />
+    <Content Include="4.40.0.9\Programs\JC.txt" />
+    <Content Include="4.40.0.9\Programs\Launcher.txt" />
+    <Content Include="4.40.0.9\Programs\Links.txt" />
+    <Content Include="4.40.0.9\Programs\MAS_SYSTEM.txt" />
+    <Content Include="4.40.0.9\Programs\MAS_USERS.txt" />
+    <Content Include="4.40.0.9\Programs\MP.txt" />
+    <Content Include="4.40.0.9\Programs\MR.txt" />
+    <Content Include="4.40.0.9\Programs\PL.txt" />
+    <Content Include="4.40.0.9\Programs\PO.txt" />
+    <Content Include="4.40.0.9\Programs\PR.txt" />
+    <Content Include="4.40.0.9\Programs\PT.txt" />
+    <Content Include="4.40.0.9\Programs\RA.txt" />
+    <Content Include="4.40.0.9\Programs\Reports.txt" />
+    <Content Include="4.40.0.9\Programs\SO.txt" />
+    <Content Include="4.40.0.9\Programs\SOA.txt" />
+    <Content Include="4.40.0.9\Programs\SY.txt" />
+    <Content Include="4.40.0.9\Programs\TC.txt" />
+    <Content Include="4.40.0.9\Programs\Uninstall Information.txt" />
+    <Content Include="4.40.0.9\Programs\VI.txt" />
+    <Content Include="4.40.0.9\Programs\Wksetup.txt" />
+    <Content Include="4.40.0.9\Programs\WO.txt" />
+    <Content Include="4.50.3.0\Companydata\AP.txt" />
+    <Content Include="4.50.3.0\Companydata\AR.txt" />
+    <Content Include="4.50.3.0\Companydata\BC.txt" />
+    <Content Include="4.50.3.0\Companydata\BM.txt" />
+    <Content Include="4.50.3.0\Companydata\BR.txt" />
+    <Content Include="4.50.3.0\Companydata\CI.txt" />
+    <Content Include="4.50.3.0\Companydata\ES.txt" />
+    <Content Include="4.50.3.0\Companydata\FL.txt" />
+    <Content Include="4.50.3.0\Companydata\GL.txt" />
+    <Content Include="4.50.3.0\Companydata\IM.txt" />
+    <Content Include="4.50.3.0\Companydata\IT.txt" />
+    <Content Include="4.50.3.0\Companydata\JC.txt" />
+    <Content Include="4.50.3.0\Companydata\MP.txt" />
+    <Content Include="4.50.3.0\Companydata\MR.txt" />
+    <Content Include="4.50.3.0\Companydata\PO.txt" />
+    <Content Include="4.50.3.0\Companydata\PR.txt" />
+    <Content Include="4.50.3.0\Companydata\RA.txt" />
+    <Content Include="4.50.3.0\Companydata\SO.txt" />
+    <Content Include="4.50.3.0\Companydata\TC.txt" />
+    <Content Include="4.50.3.0\Companydata\WO.txt" />
+    <Content Include="4.50.3.0\Programs\AP.txt" />
+    <Content Include="4.50.3.0\Programs\AR.txt" />
+    <Content Include="4.50.3.0\Programs\BC.txt" />
+    <Content Include="4.50.3.0\Programs\BIExplorer.txt" />
+    <Content Include="4.50.3.0\Programs\BM.txt" />
+    <Content Include="4.50.3.0\Programs\BR.txt" />
+    <Content Include="4.50.3.0\Programs\CI.txt" />
+    <Content Include="4.50.3.0\Programs\CM.txt" />
+    <Content Include="4.50.3.0\Programs\CU.txt" />
+    <Content Include="4.50.3.0\Programs\DDICTS.txt" />
+    <Content Include="4.50.3.0\Programs\ES.txt" />
+    <Content Include="4.50.3.0\Programs\files.txt" />
+    <Content Include="4.50.3.0\Programs\FL.txt" />
+    <Content Include="4.50.3.0\Programs\GL.txt" />
+    <Content Include="4.50.3.0\Programs\Home.txt" />
+    <Content Include="4.50.3.0\Programs\IM.txt" />
+    <Content Include="4.50.3.0\Programs\Install.txt" />
+    <Content Include="4.50.3.0\Programs\IT.txt" />
+    <Content Include="4.50.3.0\Programs\JC.txt" />
+    <Content Include="4.50.3.0\Programs\Launcher.txt" />
+    <Content Include="4.50.3.0\Programs\Links.txt" />
+    <Content Include="4.50.3.0\Programs\MAS_SYSTEM.txt" />
+    <Content Include="4.50.3.0\Programs\MAS_USERS.txt" />
+    <Content Include="4.50.3.0\Programs\MP.txt" />
+    <Content Include="4.50.3.0\Programs\MR.txt" />
+    <Content Include="4.50.3.0\Programs\PL.txt" />
+    <Content Include="4.50.3.0\Programs\PO.txt" />
+    <Content Include="4.50.3.0\Programs\PR.txt" />
+    <Content Include="4.50.3.0\Programs\PT.txt" />
+    <Content Include="4.50.3.0\Programs\RA.txt" />
+    <Content Include="4.50.3.0\Programs\Reports.txt" />
+    <Content Include="4.50.3.0\Programs\SO.txt" />
+    <Content Include="4.50.3.0\Programs\SOA.txt" />
+    <Content Include="4.50.3.0\Programs\SY.txt" />
+    <Content Include="4.50.3.0\Programs\TC.txt" />
+    <Content Include="4.50.3.0\Programs\Uninstall.txt" />
+    <Content Include="4.50.3.0\Programs\VI.txt" />
+    <Content Include="4.50.3.0\Programs\Wksetup.txt" />
+    <Content Include="4.50.3.0\Programs\WO.txt" />
+    <Content Include="help.htm" />
+    <Content Include="SAGE.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
