@@ -1,0 +1,51 @@
+E:\WorkingFolder\FolderCompare\FolderCompare\bin\Accounting.Application.CS.FolderCompare.exe.config
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\myFileInfo.Designer.vb
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\myFileInfo.xsc
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\myFileInfo.xsd
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\myFileInfo.xss
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.frmAbout.resources
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.frmAppSettings.resources
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.frmProgramCompare.resources
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.Resources.resources
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\Sage 100 Folder Compare.exe.config
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\Sage 100 Folder Compare.exe.manifest
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\Sage 100 Folder Compare.application
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\Sage 100 Folder Compare.exe
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\Sage 100 Folder Compare.pdb
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\Sage 100 Folder Compare.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Sage 100 Folder Compare.exe.manifest
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Sage 100 Folder Compare.application
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Sage 100 Folder Compare.exe
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Sage 100 Folder Compare.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Sage 100 Folder Compare.pdb
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.50.0.0.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.50.1.0.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.50.2.0.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.50.3.0.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.50.4.0.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.0.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.1.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.10.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.2.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.3.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.4.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.5.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.6.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.7.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.8.xml
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\bin\DataSets\XMLSources\4.40.0.9.xml
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\bin\Sage 100 Folder Compare.exe.config
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\Sage 100 Folder Compare.exe
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\Sage 100 Folder Compare.xml
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\Sage 100 Folder Compare.pdb
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.frmAbout.resources
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.frmAppSettings.resources
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.frmProgramCompare.resources
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.Resources.resources
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\FolderCompare\FolderCompare\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\FolderCompare\FolderCompare\obj\Debug\Accounting.Application.CS.Change_log.resources

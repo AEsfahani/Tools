@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.32" name="Sage 100 Folder Compare.exe" publicKeyToken="9dd2e73aa2ee89f1" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="SAGE.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sage 100 Folder Compare" version="1.0.0.32" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Sage 100 Folder Compare.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sage 100 Folder Compare.exe" size="193536">
+      <assemblyIdentity name="Sage 100 Folder Compare" version="1.0.0.32" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ytSwwJ7fCbHAC7gLMzSjimF2zqg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DataSets\myFileInfo.xsd" size="4991">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jPXk0o8eCdS/l5n9ls86dsRVfAs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.0.xml" size="3668321">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jmCFBYUMt/O5te63c3vKxoF77Qc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.1.xml" size="3702904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mOf52ZmunmWsC2Q7uYiSNE0x2CU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.10.xml" size="3892881">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aTr5qRGRnRDbmnL6oPuQGdjQLa0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.2.xml" size="3748720">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WYwpel3nUJ4vlCza9fZXel6RtQs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.3.xml" size="3763563">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nBHrjqYh00nbKHmYJxoMCu0bUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.4.xml" size="3776846">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fHziriWWrBGPYxxUUED3OXku2Ok=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.5.xml" size="3804879">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oh8/vgH+8TE8gHY0LiE+QKBkdjc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.6.xml" size="3818675">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>87/H1Z2q8sJd6K2vfq6d9SjWiXE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.7.xml" size="3846978">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Qt96VgV3VNmFmmBf97I/uARUcjU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.8.xml" size="3864261">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>E02gGrDrI5la2YJF1C80OUz4ONg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.40.0.9.xml" size="3880012">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DHVQKvn/6OguMELmuyTA3FZHvpQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.50.0.0.xml" size="3815916">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4ENDSpl+r9TFnLuI4Gx4LvyOAdg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.50.1.0.xml" size="3831219">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>c3d9j7VU9a3s1WZ4xAi8/+lnIAY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.50.2.0.xml" size="3854002">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wcrmIGucarzQIObq0HA34D5566s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.50.3.0.xml" size="3875661">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hG4sUCRRiua5QeTq1K0XflL91Gw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DataSets\XMLSources\4.50.4.0.xml" size="3891346">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gPxh6C+smjtMkJxj+LZa2cS3R6Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="help.chm" size="22896">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NLcdgpkKyydLpZ13v1LYO2lXr1U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="help.htm" size="40094">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>64oVXVwVw3/BVCG6SOus/9Rbn1g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Sage 100 Folder Compare.exe.config" size="2575">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LmWZ+3AIsT8h+2Gpmj/JxSYFLMU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SAGE.ico" size="33982">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qjqHRof+g+whiv6rNN9DFmlO6vg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Best\AEsfahani" issuerKeyHash="b186e4d6e7ec527a4f5e013f396fbfc15234364e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>aToBljTXAYmp6Y1hyFNgdLr5Hkw=</DigestValue></Reference></SignedInfo><SignatureValue>OUJYfaS2v695+mV1II5EFVoygqmtLscnYB9jd34cPHQG370DXHs9CG6VDW1JmNKj9Y8JYnewPtWsNOAZ1QFPbJ+NBj5g/uxiBXAd+7BgbEtTK4y4vJEeWylC04q1OaqVvTgG4amKZidIOEpx9EFDUbyB4+Z9r4lBHaWBfm6m32Q=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>hpYP+1IWKUvjIwWZIY3fPveAZ89/dfA0n98R/OfyIPHAQYf6bAzYx3+q+ONDs19MjXMJ7i0t8Cbfsru6RbfpPqLdAgA4NqFrT6WyLJB2weGC+8rcvhDoRd7dKM8URUGJliiW4SyGnoj9jHzFvfseEkaI4WNf8gMR7dJ9BPr7wYk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4c1ef9ba746053c8618de9a98901d73496013a69" Description="" Url=""><as:assemblyIdentity version="1.0.0.32" name="Sage 100 Folder Compare.exe" publicKeyToken="9dd2e73aa2ee89f1" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Best\AEsfahani</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>glHjvRt5cgBpz2Pa6E6NQ9zoyRY=</DigestValue></Reference></SignedInfo><SignatureValue>bRcHmoH99986lgEJNJlag+14CGccUKSgiTzDBzlLO6613EJlQB41g+6xrLZoPKFxhwbsO/Sn8QkUI6l7uIanovpy0aJRaIAqoBPL4RIdwDMnikTPGqYpPSbLx6caiJqpMaIz5KS7jNeDxmw+I0nZHeBcWi9YgCdkSlp5+2oEQQM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>hpYP+1IWKUvjIwWZIY3fPveAZ89/dfA0n98R/OfyIPHAQYf6bAzYx3+q+ONDs19MjXMJ7i0t8Cbfsru6RbfpPqLdAgA4NqFrT6WyLJB2weGC+8rcvhDoRd7dKM8URUGJliiW4SyGnoj9jHzFvfseEkaI4WNf8gMR7dJ9BPr7wYk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATagAwIBAgIQYZfrpPiBJr1CUISBRKsc2TAJBgUrDgMCHQUAMCcxJTAjBgNVBAMeHABCAGUAcwB0AFwAQQBFAHMAZgBhAGgAYQBuAGkwHhcNMTIwNTExMjIwOTIxWhcNMTMwNTEyMDQwOTIxWjAnMSUwIwYDVQQDHhwAQgBlAHMAdABcAEEARQBzAGYAYQBoAGEAbgBpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCGlg/7UhYpS+MjBZkhjd8+94Bnz3918DSf3xH85/Ig8cBBh/psDNjHf6r440OzX0yNcwnuLS3wJt+yu7pFt+k+ot0CADg2oWtPpbIskHbB4YL7yty+EOhF3t0ozxRFQYmWKJbhLIaeiP2MfMW9+x4SRojhY1/yAxHt0n0E+vvBiQIDAQABMAkGBSsOAwIdBQADgYEAORnn2DASqY90pV2HuZEddgDBrROCgW/m9G55qf/KEY2TsvSnBAC+nMtn/UgX1w+pXS6+wj07gKDM3BefU0JkmifGij/9h92lnM9KpbPBZf3B6chzVWnsO/nlR1/sgQoHHotymGb4/iHts1KogYhv1jNPWI6OI53G2DQoTiGVgQo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
