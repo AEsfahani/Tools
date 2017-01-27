@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Queue Monitoring.exe" version="1.1.0.9" publicKeyToken="3a0733fa8438e501" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="ReadyOrNot.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Queue Monitoring" version="1.1.0.5" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Queue Monitoring.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.Entity" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Queue Monitoring.exe" size="314880">
+      <assemblyIdentity name="Queue Monitoring" version="1.1.0.5" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>bn8QsmUbzPXRe/+T2+QIdteos2I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Queue Monitoring.exe.config" size="1555">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>10FVBcf0QE7fpukOqxSm/qtMge4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ReadyOrNot.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/rSWD/WrIkZod1BLin4IsnMU9KY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\OffReady.gif" size="17788">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bdhOSU9JhQK2Mk2uYZSk9D1nVXM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\OnCall.gif" size="20154">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OBX5rPeQ2f8YBOEP5VYhhzCGNNU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\OnConversation.gif" size="51010">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RLXhKb9/K/FoRKHHfy46RGbBY8I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\OnHold.gif" size="7806">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xQPl/J5mSim7Zw6CZOSYwpyxVaQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\OnReady.gif" size="14871">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cDMNRBiucH2McPu1ogmw7iaKf6k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\OnWrap.gif" size="4624">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6BbX8/yT8GvKbc17cFeBcfXoTBU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=BEST\AEsfahani" issuerKeyHash="8d4faefa8f88be506bca19db309d36a8df97a45c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>urAs/0BNBpNFo4hoFLk5WFCw0Kk=</DigestValue></Reference></SignedInfo><SignatureValue>GTsyQCEdJYkUTkupgg3S1k0NKSANgd9mQwmb4gmQDeZy/ovZnd77gWsGCCQTyjw2voYpr0Q8/wdW6bZKKfuxMKNTfntqail0CCAUAnuJL2GCcogCScnMyno2zF3rt8ASbyqCoD7GEeD14bAuGCYWtNIl0SDLTAV79fQCe5mMRxA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rNUNQfyy1KqdkrlGoiiQ1V84nG2sTN6os5PUq0AooX3igRM4yQzFFab2OKXvmqF9c7YixeyX69Fse845ycbyIVDN0nCGyTH+0Rg5YUN4MUeurDkABS4vod8tb2K1ALDJPNnvfFz4wL81NRtPkunbemuk3KnAumI80F7wgO9k1G8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a9d0b0505839b9146888a34593064d40ff2cb0ba" Description="" Url=""><as:assemblyIdentity name="Queue Monitoring.exe" version="1.1.0.9" publicKeyToken="3a0733fa8438e501" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BEST\AEsfahani</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>/4j8lVPz7ONSr7xwtidHPQXdj88=</DigestValue></Reference></SignedInfo><SignatureValue>MMkWvsykpJAwZOMLcw5ULVXfTsItv1HpqVWoDCGpElciJ2SXpBBVsVsEI8SvZjzF/eRM3+aOsLqJHhZSE+lGvSxWjP6hnrOvAEk/YPcxm95WgaFFl32eW+4scilp4AaQeNfAUGawxlj7p44gAkj6zoapq2+rmScDNneJqjw9OkA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rNUNQfyy1KqdkrlGoiiQ1V84nG2sTN6os5PUq0AooX3igRM4yQzFFab2OKXvmqF9c7YixeyX69Fse845ycbyIVDN0nCGyTH+0Rg5YUN4MUeurDkABS4vod8tb2K1ALDJPNnvfFz4wL81NRtPkunbemuk3KnAumI80F7wgO9k1G8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQe9r7bmZutrpKfJMCJo7VpTANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAQgBFAFMAVABcAEEARQBzAGYAYQBoAGEAbgBpMB4XDTE0MDYwMjE0NTY0NVoXDTE1MDYwMjIwNTY0NVowJzElMCMGA1UEAx4cAEIARQBTAFQAXABBAEUAcwBmAGEAaABhAG4AaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArNUNQfyy1KqdkrlGoiiQ1V84nG2sTN6os5PUq0AooX3igRM4yQzFFab2OKXvmqF9c7YixeyX69Fse845ycbyIVDN0nCGyTH+0Rg5YUN4MUeurDkABS4vod8tb2K1ALDJPNnvfFz4wL81NRtPkunbemuk3KnAumI80F7wgO9k1G8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQCZ9KsXgKzQ+dz0PGFbHGHtpJ6tTYI0ghkEo6K7BFBZya7psYOCTSIsikuEkOWnIaz1X7Rq07jFMktdaLrsWB6BxvDT84KlwLmlf61vrUaJfpWZQk7QNpxCwAttHiXlYKMZf9aWf9gRIWqzyIRLPsb4Tf8q6MlEzeWhKG8b0HKd6A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

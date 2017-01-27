@@ -1,0 +1,16 @@
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Validate.vbproj.GenerateResource.Cache
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\bin\Debug\Sage 100 Key Validation.exe.manifest
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\bin\Debug\Sage 100 Key Validation.application
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\bin\Debug\Sage 100 Key Validation.exe
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\bin\Debug\Sage 100 Key Validation.pdb
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\bin\Debug\Sage 100 Key Validation.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage100KeyValidation.Form1.resources
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage100KeyValidation.Resources.resources
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage 100 Key Validation.TrustInfo.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage 100 Key Validation.exe.manifest
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage 100 Key Validation.application
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage 100 Key Validation.exe
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage 100 Key Validation.xml
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage 100 Key Validation.pdb
+C:\Documents and Settings\AEsfahani\Desktop\vb\Validate\Validate\obj\Debug\Sage100KeyValidation.AboutBox1.resources

@@ -1,0 +1,42 @@
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnWrap.gif
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnReady.gif
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnHold.gif
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnConversation.gif
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnCall.gif
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OffReady.gif
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.exe.config
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.exe.manifest
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.application
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.exe
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.pdb
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue_Monitoring.cMainForm.resources
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue_Monitoring.FullSchedule.resources
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue_Monitoring.Properties.Resources.resources
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.csproj.GenerateResource.Cache
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.exe.manifest
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.application
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.exe
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.pdb
+\\mainnt\common\Public Common\Sage100SupportApps\Queue Monitoring\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.csprojResolveAssemblyReference.cache
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.exe.config
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.exe
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.pdb
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnWrap.gif
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnReady.gif
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnHold.gif
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnConversation.gif
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OnCall.gif
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Resources\OffReady.gif
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.exe.manifest
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.application
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.exe
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\bin\Debug\Queue Monitoring.pdb
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.csprojResolveAssemblyReference.cache
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue_Monitoring.cMainForm.resources
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue_Monitoring.FullSchedule.resources
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue_Monitoring.Properties.Resources.resources
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.csproj.GenerateResource.Cache
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.exe.manifest
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue Monitoring.application
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue_Monitoring.AboutBox1.resources
+C:\Users\AEsfahani\Desktop\My Programming Projects\Queue Monitoring\Queue Monitoring\obj\Debug\Queue_Monitoring.Form2.resources
