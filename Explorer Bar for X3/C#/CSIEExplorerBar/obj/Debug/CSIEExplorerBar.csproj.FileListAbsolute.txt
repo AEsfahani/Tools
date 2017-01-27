@@ -1,0 +1,10 @@
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\Debug\CSIEExplorerBar.dll
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\Debug\CSIEExplorerBar.pdb
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\Debug\CSIEExplorerBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\Debug\CSIEExplorerBar.ImageListExplorerBar.resources
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\Debug\CSIEExplorerBar.dll
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\Debug\CSIEExplorerBar.pdb

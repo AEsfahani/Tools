@@ -1,0 +1,44 @@
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\CSIEExplorerBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\Debug\SageExplorerBar.dll
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\Debug\SageExplorerBar.pdb
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.SageExplorerBar.resources
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.Properties.Resources.resources
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.dll
+C:\Documents and Settings\AEsfahani\Desktop\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.pdb
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\Debug\SageExplorerBar.dll
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\Debug\SageExplorerBar.pdb
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\CSIEExplorerBar.csproj.ResolveComReference.cache
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.SageExplorerBar.resources
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.Properties.Resources.resources
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.dll
+C:\Documents and Settings\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.pdb
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\CSIEExplorerBar.csproj.ResolveComReference.cache
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.SageExplorerBar.resources
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.Properties.Resources.resources
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.dll
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.pdb
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\Debug\SageExplorerBar.dll
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Create IE Explorer Bar in C# (CSIEExplorerBar)\C#\Debug\SageExplorerBar.pdb
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\Debug\SageExplorerBar.dll
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\Debug\SageExplorerBar.pdb
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\CSIEExplorerBar.csproj.ResolveComReference.cache
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.SageExplorerBar.resources
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.Properties.Resources.resources
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.dll
+C:\Users\AEsfahani\Desktop\My Programming Projects\toolbar\Explorer Bar for X3\C#\CSIEExplorerBar\obj\x86\Debug\SageExplorerBar.pdb
