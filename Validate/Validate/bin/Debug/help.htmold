@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Sage 100 Key Validation</Title>
+</HEAD>
+<BODY>
+<p align="center"><strong>Sage 100 Key Validation</strong></p>
+&nbsp;
+
+Have you missed having the validate key button in Vantive.
+&nbsp;
+<p>
+No worries now you can validate Sage 100 Keys with Sage 100 Key Validation program, this application uses the same method as a Real MAS90 installation does to validate the keys and presents a list of all the modules that are on that key plus the number of user licenses that in the key.
+&nbsp;
+</p><p>
+Please send an email to <a href="mailto:ali.esfahani@sage.com">ali.esfahani@sage.com</a> with all the enhancement requests and bug reports.
+&nbsp;
+</p><p>
+In order to install it please use the installer program from here.
+
+<a href="file:///\\mainnt\common\Public%20Common\Sage100SupportApps\Sage100FileCompare\publish.htm">\\mainnt\common\Public Common\Sage100SupportApps\Sage100FileCompare\publish.htm</a>
+</p>
+<p>
+How to use:
+<ol>
+	<li>Enter Serial number</li>
+	<li>Enter Customer Numver</li>
+	<li>Enter User key</li>
+	<li>Enter the product key in the format of XXXXX-XXXXX-XXXXX-XXXXX-XXXXX</li>
+	<li>Press Validate</li>
+</ol>
+&nbsp;
+</P>
+</BODY>
+</HTML>
